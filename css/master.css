@@ -36,11 +36,11 @@ h1 {
 }
 
 #logo {
-    width: 300px;
-    padding: 15px;
-    color: crimson;
-    font-weight: bolder;
-    font-size: 25px;
+    width: 400px;
+    border-left: crimson solid 5px;
+    padding: 5px;
+    margin: 5px;
+    font-size: large;
 }
 
 #link {
